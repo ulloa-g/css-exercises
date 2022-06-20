@@ -1,0 +1,17 @@
+.odd-numbered {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif; /* Me falta agregar DejaVu Sans. Verificar si esta parte esta bien*/
+}
+.odd-and-cooler {
+    font-size: 24px;
+}
+
+#even2 {
+    color: blue;
+    font-size: 36px;
+}
+#even4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
