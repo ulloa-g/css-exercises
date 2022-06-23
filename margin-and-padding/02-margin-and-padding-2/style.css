@@ -5,23 +5,35 @@ body {
 
 .card {
   width: 400px;
-  background: #fff;
+  background: rgb(255, 255, 255);
   margin: 16px auto;
+  padding: 8px;  /* Added this*/
 }
 
 .title {
-  background: #e3f4ff;
+    background: #9bc4df;
+    font-size: 16px; /* Added this*/
+    margin-top: 0px;
+    margin-bottom: 8px;
+    padding: 8px;
 }
 
 .content {
-  background: #e3f4ff;
+  background: #9bc4df;
+  padding: 16px 8px;
+  margin-bottom: 8px;
 }
 
 .button-container {
-  background: #e3f4ff;
+  background: #9bc4df;
+  text-align: center;   
+  padding: 8px;         
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;  /*represents the space beetwen top-bottom and space beetwen borders on left and right*/
 }
